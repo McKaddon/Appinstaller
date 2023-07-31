@@ -30,18 +30,5 @@
                 "platform": "android"
             }
         ],
-    }
-        "apps": {
-        "windows": [
-            {
-                "id": "AceStreamWindows",
-                "name": "Ace Stream Windows v3.1.32",
-                "url": "https://github.com/McKaddon/Appinstaller/releases/download/v3.1.32-Acestream.Windows/Ace.Stream.Media.v3.1.32.exe",
-                "thumbnail": "https://play-lh.googleusercontent.com/HnxHBfsm9bEahEHxqNt3XzR0WE6zgAViyy7STU_EgkW8Po_0V305z6t6oyu24PLNomxz",
-                "version": "3.1.32.0",
-                "platform": "windows"
-            }
-        ]
-        }
     },
 }
