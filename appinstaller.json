@@ -30,6 +30,8 @@
                 "platform": "android"
             }
         ],
+            },
+            "apps": {
         "windows": [
             {
                 "id": "AceStreamWindows",
