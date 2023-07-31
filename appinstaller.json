@@ -1,0 +1,46 @@
+{
+    "sections": [
+        {
+            "id": "android",
+            "name": "Aplicaciones Android",
+            "thumbnail": "https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
+        },
+        {
+            "id": "windows",
+            "name": "Aplicaciones Windows",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png"
+        }
+    ],
+    "apps": {
+        "android": [
+            {
+                "id": "MCKFork",
+                "name": "MCKFork",
+                "url": "https://github.com/McKaddon/Kodifork/releases/download/v1.0.0/Kodi.v20.1.Dark.MOD.v1.0.@McKlaus_Appss.apk",
+                "thumbnail": "https://cdn4.telegram-cdn.org/file/EUUmK1EZEXCNFHs23j6dPBABu3si9Gpf75MdXdEPUkMVx7hOat8xhiQ4tfb1EYI0vAVYYJ7NssjPCnbTGRbDVFkyF4rRzClNZRBBeTIjKlIPxPXS9OhOfoZlgYOfhvVznpKqRE_w9sBn1AI0lBf18yEbb7waG2kT6owm4ZdtiWqWp8TVyFoxodS_wH8zVEhWVcqL7nCDlg-nxSGA4g3ZjTP6cXdCYP86ICK5gx97QepbXG-sWUX7QvZCcaz1YXCkRGPQtfsYCcfA5GBjGoQmFK6kNBZK6u9tDOW5XF6giA3DiojyMnqLEMWP4_xzasxLElOt7_Io_ApjgFRduVp5jg.jpg",
+                "version": "1.0.1",
+                "platform": "android"
+            },
+            {
+                "id": "AceStreamAndroid",
+                "name": "Ace Stream Android",
+                "url": "http://konectas.es/repo/APKs/AceStream%20MOD%20v3-3.1.48.0.apk",
+                "thumbnail": "https://play-lh.googleusercontent.com/HnxHBfsm9bEahEHxqNt3XzR0WE6zgAViyy7STU_EgkW8Po_0V305z6t6oyu24PLNomxz",
+                "version": "3.1.48.0",
+                "platform": "android"
+            }
+        ],
+            },
+            "apps": {
+        "windows": [
+            {
+                "id": "AceStreamWindows",
+                "name": "Ace Stream Windows v3.1.32",
+                "url": "https://github.com/McKaddon/Appinstaller/releases/download/v3.1.32-Acestream.Windows/Ace.Stream.Media.v3.1.32.exe",
+                "thumbnail": "https://play-lh.googleusercontent.com/HnxHBfsm9bEahEHxqNt3XzR0WE6zgAViyy7STU_EgkW8Po_0V305z6t6oyu24PLNomxz",
+                "version": "3.1.32.0",
+                "platform": "windows"
+            }
+        ],
+    }
+}
